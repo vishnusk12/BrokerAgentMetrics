@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 12 17:44:16 2017
-
-@author: vishnu.sk
-"""
 
 from pymongo import MongoClient
 from dbauth import DATABASE_ACCESS
