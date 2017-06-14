@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 21 11:25:00 2016
 
-@author: vishnu.sk
-"""
 from pymongo import MongoClient
 db_client = MongoClient("52.91.122.15", 27017)
 Data_Aggregation  = [{"$match":
