@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 03 12:15:13 2017
-
-@author: vishnu.sk
-"""
 
 
 from pymongo import MongoClient
