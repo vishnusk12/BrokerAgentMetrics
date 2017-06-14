@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 11 11:07:09 2017
-
-@author: vishnu.sk
-"""
 
 import pandas as pd
 from pymongo import MongoClient
