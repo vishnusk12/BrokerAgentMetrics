@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 04 15:32:28 2017
-
-@author: vishnu.sk
-"""
 
 from pymongo import MongoClient
 db_client = MongoClient("52.91.122.15", 27017)
